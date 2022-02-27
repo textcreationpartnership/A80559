@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copies of papers from the armie delivered by the officers and souldiers to his Excellencie Sir Thomas Fairfax Also, how they have set a guard udon [sic] the King, and their civill usage to the commissioners, and Captain Titus the Kings M[a]jesties querrie sent up to the Parliament with a letter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80559</idno>
+            <idno type="STC">Wing C6273B</idno>
+            <idno type="STC">ESTC R224373</idno>
+            <idno type="EEBO-CITATION">99896956</idno>
+            <idno type="PROQUEST">99896956</idno>
+            <idno type="VID">170798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80559)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2463:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copies of papers from the armie delivered by the officers and souldiers to his Excellencie Sir Thomas Fairfax Also, how they have set a guard udon [sic] the King, and their civill usage to the commissioners, and Captain Titus the Kings M[a]jesties querrie sent up to the Parliament with a letter.</title>
+                  <author>Corbet, Roger.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Simpson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667 [i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first item, a newsletter, is signed and dated: R. Corbet. Edmonds Bury, 3 of June, 1647.</note>
+                  <note>Actual date of publication from Wing.</note>
+                  <note>In this edition, line 10 of title has 'udon'; line 12 of title, the 'a' of 'Majesties' did not print.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170798:1" rendition="simple:additions"/>
+            <pb facs="tcp:170798:1"/>
+            <p>THE COPIES OF PAPERS FROM THE ARMIE DELIVERED By the Officers and Souldiers to his Ex<g ref="char:EOLhyphen"/>cellencie Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>Alſo, how they have ſet a Guard upon the King, and their civill uſage to the Commiſſioners, and Captain <hi>Titus</hi> the Kings M jeſties Querrie ſent up to the Parliament with a Letter.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>R. Simpſon,</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:170798:2"/>
+            <pb facs="tcp:170798:2"/>
+            <head>NEVVES FROM THE ARMY</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>I Have ſent you here incloſed a Copy of the Votes of the Officers at a Councell of War, and the Petition of the common Souldiers, delivered by their Adjutants from
+<pb facs="tcp:170798:3"/> the Regiments to the General, ſince which, the grand Committee of Souldiers have received ſome fur<g ref="char:EOLhyphen"/>ther Propo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tions, which when they are perfected, I will advertiſe you further of.</p>
+            <p>There were a party of Souldiers ſent from hence to <hi>Holmby,</hi> who had Inſtructions for ſetting of a a Guard about <hi>Holmby,</hi> to ſecure his Majeſties Per<g ref="char:EOLhyphen"/>ſon; and we have received advertiſements of their performing the ſame with much modeſty, and offe<g ref="char:EOLhyphen"/>ring nothing but what becomes loyall Subjects to His Majeſty, and they carry t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emſelves very civilly to the Commiſſioners, who are there by order of both Houſes of Parliament with the King, we here that the Commiſſioners have ſent up C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptaine <hi>Ti<g ref="char:EOLhyphen"/>tus,</hi> one of his Majeſties Que<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ries, with Letters to the Parliament, to acquaint them therewith. Colo<g ref="char:EOLhyphen"/>nell <hi>Graves</hi> ſome ſay is gone, but of that you will be better ſatisfied from Captain <hi>Titus,</hi> who can ac<g ref="char:EOLhyphen"/>qu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int you with the ſmall matter of hurt which was at the fray there, which perhaps ſome ill affected perſonr will make a great matter of.</p>
+            <p>The Sould ers are in great expectation what the Parliament will doe; ſome things they have to pro<g ref="char:EOLunhyphen"/>pound, for ought I ſee, they will wave part t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll they here from the Parliament. This is all at preſent from</p>
+            <closer>
+               <signed>Your ſervant, <hi>R. CORBET.</hi>
+               </signed>
+               <dateline>Edmonds Bury, <date>3 of June, 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="advice_of_Council_of_War">
+            <pb facs="tcp:170798:3"/>
+            <head>To his Excellency Sir <hi>Thomas Fairfax</hi> Knight, Commander in Chiefe of the Parliaments Forces.</head>
+            <head type="sub">The Opinion and humble Adviſe of the Councell of Warre, con<g ref="char:EOLhyphen"/>vened at <hi>Bury,</hi> Saterday <hi>29. May. 1647.</hi> In relation to the Votes of Parliament, communicated to us by your Excellency and the deſirs of our advice thereof.</head>
+            <opener>Humbly Sheweth,</opener>
+            <div n="1" type="part">
+               <p n="1">1. THat upon the reports come to all quarters of the Army concerning the Votes and proceedings of the Houſe <hi>May</hi> 21. As alſo of thoſe on Tueſday, <hi>May</hi> 25. we find the ge<g ref="char:EOLhyphen"/>nerallity of the Army (as we are our ſelves) much unſatisfied in the one, and ſomething amazed and ſtartled at the other. the firſt Votes (of Friday) comming much ſhort of ſatisfaction as to the grievances of the Army then reported to the Houſe, and not taking any notice at all of ſome that were moſt materiall, &amp; the latter (of Tueſday) importing a reſolution ſuddenly to diſ<g ref="char:EOLhyphen"/>band the Army by peace-meale, before equall ſatisfaction be given <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the who<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in any of the grievances, or ſo much as any conſideration had of ſome others moſt materiall: And alſo be<g ref="char:EOLhyphen"/>fore any effectuall performance of that ſatisfaction with the Votes of Friday ſeemed to promiſe as to ſome of the grievan<g ref="char:EOLhyphen"/>ces, all which we ſhall be readie (upon a little time given us) to repreſent to your Excellency, more diſtinctly and in par<g ref="char:EOLhyphen"/>ticular.</p>
+               <p n="2">2. That the ſaid diſtraction, and the iealouſies occaſioned up<g ref="char:EOLhyphen"/>pon the ſame proceeding, as we f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are, and ſome effects alrea<g ref="char:EOLhyphen"/>dy appearing doe find, may unhappily produce dangerous diſturbanc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and tumultuous actings amongſt ſeverall p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rts of the Army, as they now lie diſperſed and remote from the Head quarters, eſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cially amongſt thoſe Regiments whoſe prin<g ref="char:EOLhyphen"/>cipall Officers, by neglecting or diſſerting their Soldiers in in their neceſſary concernments or iuſt grievances, have diſob<g ref="char:EOLhyphen"/>leiged their Soldiers, and loſt their intereſt with them, in ſo much a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch Officers are in ſome ſort forced to withdraw from their charges, and can ſcarce with ſafety come at them, &amp; to prevent the inconveniencies or ill conſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quences which ſuch diſturbed or tumul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uous <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctings might produce either to the countrys where the Army quarters or to the kingdom,</p>
+               <pb facs="tcp:170798:4"/>
+               <p>VVe humbly adviſe your Excellency without de<g ref="char:EOLhyphen"/>lay, to draw the Army unto a cloſer poſture of quar<g ref="char:EOLhyphen"/>ters, till upon further ſatisfaction the Army may be quietly and orderly disbanded.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>That upon the ſame diſſatisfaction and jealouſie we find an extream earneſtneſſe, and violent propen<g ref="char:EOLhyphen"/>ſity among the Soldiers to a generall Randezvouze and wee verily beleeve, that the firſt attempt to diſ<g ref="char:EOLhyphen"/>band any one Regiment, before equall ſatisfaction to all, and aſſurance againſt thoſe things they have cauſe to feare, will occaſion them all to draw together, and Kandevouze of themſelves, as it were upon an Al<g ref="char:EOLhyphen"/>larm &amp;c.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>Since that courſe of disbanding the Army by piece meale, before the ſatisfaction intended be per<g ref="char:EOLhyphen"/>formed equally to the whle, ſeems ſomthing ſtrange and unuſuall.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IIII.</head>
+               <p>That they would be pleaſed to reſume the things voted on Tueſday laſt, as alſo to reſume the grievan<g ref="char:EOLhyphen"/>ces of the Army, together with the things propoſed in the Narrative from the Officers, and to give ſatiſ<g ref="char:EOLhyphen"/>faction, or at leaſt ſome reſolution to each of them, and that they would not think it fit to put that tem<g ref="char:EOLhyphen"/>tation, thoſe jealouſies, and that diſhonour upon the Army, as to take it disbanded in ſcattered pieces, be<g ref="char:EOLhyphen"/>fore ſatisfaction be equally given to the whole.</p>
+            </div>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:170798:4"/>
+            <head>
+               <hi>To his Excellency Sir</hi> Thomas Fairfax, <hi>Knight, Captaine, Generall of the forces ray<g ref="char:EOLhyphen"/>ſed by the Authority of Parliament.</hi> The humble Petition of the Souldiers of the Army, preſented to his Excellency at a Councel of Warre, held at St. Edmuns<g ref="char:EOLhyphen"/>burye on Saturday <hi>29</hi> May <hi>1647.</hi>
+            </head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THat we your Petitioners conſidering the late Orders for disbanding the Army without redreſing our grievances, vindicating the Army, or calling to accompt ſuch perſons who have been intenders contrivers, and promoters of our deſtruction which (being b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reaſonable) we humbly con<g ref="char:EOLhyphen"/>ceive we may juſtly expect and ſhould not be denyed before our disbanding, conſidering alſo the ſtrange unheard of and unuſuall way of disbanding us a part one Regiment from another, contrary to the examples of other Armies disban<g ref="char:EOLhyphen"/>ding in this kingdome: which poſture renders <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ous to the kingdome, to whom for ſome of our Accompts (though humble and iuſt) we have already been <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>clared e<g ref="char:EOLhyphen"/>nemies, and to whom (for ought we know) the reſt of our doing, may be preſented with the ſame conſtructions.</p>
+            <p>We your Petitioners humbly beſeech your Excellencie, you would be pleaſed to appoint a Randezvouze ſpeedily for the Army, and alſo to uſe your utmoſt e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eavours that it be not disbanded before our ſad and preſſing grievances be heard, and fully redreſſed; which if not done before diſ<g ref="char:EOLhyphen"/>banding, wee humbly conceive we ſhall be enforced upon many inconveniencies which will (of neceſſity) ariſe, when we (though unwilling) ſhall be neceſſitated (for avoyding of deſtruction like to fall on the whole Army, if not prevent<g ref="char:EOLhyphen"/>ed) to do ſuch things ourſelvess which if your Excellencie (out of your wiſdome and prudence), ſhall prevent, by granting our juſt deſires in a way of Order, we ſhall abun<g ref="char:EOLhyphen"/>dantly rejoyce in it, and be (with cheerfulneſſe) enabled by it, to ſubſcribe our ſelves,</p>
+            <closer>
+               <signed>Your Excellencies, and the Kingdomes innocent and faithfull ſervants, whoſe names are hereunto annexed, being Agi<g ref="char:EOLhyphen"/>tators in behalf of the ſeverall Regiment<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.
+<list>
+                     <pb facs="tcp:170798:5"/>
+                     <item>
+                        <list>
+                           <head>Adjutators of the Generals Regiment of Horſe.</head>
+                           <item>Edward Sexby.</item>
+                           <item>Edward Taylor.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Lieutenant Generals Regiment.</head>
+                           <item>VVi<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>liam A<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>len</item>
+                           <item>Sam: whiting</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Commiſſary Generals Regiment.</head>
+                           <item>Tho: Shepheard</item>
+                           <item>Anth. Nickſon,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell Fleetwoods Regiment.</head>
+                           <item>Edward Twig,</item>
+                           <item>Thomas Jones,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell Whaleyes Regiment.</head>
+                           <item>Thomas Kendall,</item>
+                           <item>William Young,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell Sheffields Regiment,</head>
+                           <item>Edward Starre,</item>
+                           <item>Edward Gethings</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell Butlers Regiment</head>
+                           <item>John Willoughby,</item>
+                           <item>Tobias Box,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell Sir Robert Pyes Reg<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>m<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nt</head>
+                           <item>Thomas Brown,</item>
+                           <item>Barth. W<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>llock.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell Grave<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> his Re<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ment</head>
+                           <item>George Steuſon,</item>
+                           <item>Richard Salter.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell Riches Regiment.</head>
+                           <item>Nicholas Lockyer,</item>
+                           <item>John Braman,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>O<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> the <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>enerals Reg<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ment of Foot.</head>
+                           <item>Edward Vaughan,</item>
+                           <item>Joh<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Newſon,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>
+                              <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>olone<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>l Wa<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ers Regiment</head>
+                           <item>Robert Maſon,</item>
+                           <item>Henry Anderton,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonel<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Harowes Regim<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>t.</head>
+                           <item>Nicholas Andrews</item>
+                           <item>Ralph Prentice,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell L<gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>urnes Regiment.</head>
+                           <item>Herbert Field</item>
+                           <item>Thomas Walſton,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonel Hewſons Regiment.</head>
+                           <item>Edward Garn,</item>
+                           <item>Daniel Hincksman</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Colonell Lambarts Regiment.</head>
+                           <item>William Baker,</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:170798:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
